@@ -5,7 +5,7 @@
 ## Network Architecture
 
 <p align="center">
-  <img src="assets/dsdnet-architecture.png"
-       alt="Architecture of DSDNet"
+  <img src="assets/SDSNet.png"
+       alt="Architecture of SDSNet"
        width="900">
 </p>
