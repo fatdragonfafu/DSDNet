@@ -1,0 +1,8 @@
+train: L:\deeplearning\deeplearning\mydataset\bamboo\bamboo\train\images # train images (relative to 'path') 128 images
+val: L:\deeplearning\deeplearning\mydataset\bamboo\bamboo\val\images  # val images (relative to 'path') 128 images
+test: L:\deeplearning\deeplearningmydataset\bamboo\bamboo\test\images
+
+nc: 6
+
+# Classes
+names: ['yellow_black_kont','green_black_kont','flat_yellow','concave_yellow','stay_green','crack']
